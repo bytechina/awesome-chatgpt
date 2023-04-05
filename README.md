@@ -32,7 +32,7 @@
 * [解锁ChatGPT超高级玩法，展示动态图片](https://mp.weixin.qq.com/s?__biz=Mzk0NDM3OTEyOQ==&mid=2247484222&idx=1&sn=ee4036694ad43c7a3949c84ebc94f07e&chksm=c324c6a8f4534fbea75eaa69a5b3e5d38c68f6cc6770665888e7c963b1cc8ecfc3fb82014e47&token=780654323&lang=zh_CN#rd) 变通之法实现ChatGPT返回动态图片。
 *  [这些ChatGPT酷炫玩法，99%使用者不知道](https://mp.weixin.qq.com/s?__biz=Mzk0NDM3OTEyOQ==&mid=2247484389&idx=1&sn=34afea8c052e3d1333aa279cd8bbfabb&chksm=c324c673f4534f65985f219a05ef7b013ee5fcb4e3e951d23c2ae25c62009d42510b217a652c&token=1124812955&lang=zh_CN#rd) ChatGPT输出图像。
 *  [巧用ChatGPT编写万字长文的论文，纯干货实操](https://mp.weixin.qq.com/s?__biz=Mzk0NDM3OTEyOQ==&mid=2247484412&idx=1&sn=63c2b3cac04da1d845337df102bf5431&chksm=c324c66af4534f7cec704e1d2ac2b0aa19d4b1e3635a5a1a196acb995b052162a3ce2916e2f4&token=1124812955&lang=zh_CN#rd) 代写长篇论文。
-*   [ChatGPT账号没封的看过来，与ChatGPT玩个超级创意游戏](https://mp.weixin.qq.com/s?__biz=Mzk0NDM3OTEyOQ==&mid=2247484560&idx=1&sn=cd8b056343b367266fa01122657ab6a5&chksm=c324c106f45348101f2ce77612de92fde958fb4fe98b651285e17fe7c2f78d0c9688b5161e18&token=880530703&lang=zh_CN#rd) 代写长篇论文。
+*   [ChatGPT账号没封的看过来，与ChatGPT玩个超级创意游戏](https://mp.weixin.qq.com/s?__biz=Mzk0NDM3OTEyOQ==&mid=2247484560&idx=1&sn=cd8b056343b367266fa01122657ab6a5&chksm=c324c106f45348101f2ce77612de92fde958fb4fe98b651285e17fe7c2f78d0c9688b5161e18&token=880530703&lang=zh_CN#rd) 小创意。
 
 
 ## 风险篇
