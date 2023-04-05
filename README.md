@@ -23,6 +23,7 @@
 * [如何用ChatGPT每天生成100条高质量小红书笔记](https://mp.weixin.qq.com/s?__biz=Mzk0NDM3OTEyOQ==&mid=2247484258&idx=1&sn=c74a7163194796ba30cb730d50afad6f&chksm=c324c6f4f4534fe206b2adda9dfbf0fa5e8a1ed4b5772de526635a44faaae53ed80905e0c875&token=780654323&lang=zh_CN#rd) 劣币驱逐良币。
 * [让ChatGPT写出更符合知乎调性的文章](https://mp.weixin.qq.com/s?__biz=Mzk0NDM3OTEyOQ==&mid=2247484268&idx=1&sn=1e6ca9f8cfc5cc9c741d12255a45c4cc&chksm=c324c6faf4534fecaf3974bf8dc1ffc345a4b9f71b25db3d8df1f4a05568922b9f57d4a61bc0&token=780654323&lang=zh_CN#rd) 知乎平台注水的制造者。
 *  [该为 GPT-4 降温了](https://mp.weixin.qq.com/s?__biz=Mzk0NDM3OTEyOQ==&mid=2247484325&idx=1&sn=0b0644e82007e0a16879a8cb80b5c644&chksm=c324c633f4534f25492f8c870aefa9437c6b054ef7c96197d4b3e66ff7cbaf80432c79c543c0&token=1124812955&lang=zh_CN#rd) 先学会"怎么向ChatGPT提问”更为重要。
+*   [ChatGPT相关：微软账号注册步骤详解，纯保姆级操作示范](https://mp.weixin.qq.com/s?__biz=Mzk0NDM3OTEyOQ==&mid=2247484527&idx=1&sn=128952038fe1a1d79b3090b0338d948f&chksm=c324c1f9f45348ef9de4f3032fcb047e8f3738a600b3cc90890ff7b9e8eace2bae616fb986d4&token=880530703&lang=zh_CN#rd) 扫盲帖。
 
 ## 高级篇
 *  [ChatGPT顶级玩法：ChatGPT越狱版破解，教你如何用最粗鲁的话狂怼网上的喷子](https://mp.weixin.qq.com/s?__biz=Mzk0NDM3OTEyOQ==&mid=2247484425&idx=1&sn=c49de626c9ff42c8c3de8025b114a8fd&chksm=c324c19ff45348899a2face11086ca3dfee6cb97c99a1b8d8c4a42cfa5b60d24b4e80ee6e793&token=1124812955&lang=zh_CN#rd) 新奇玩法。
@@ -31,9 +32,17 @@
 * [解锁ChatGPT超高级玩法，展示动态图片](https://mp.weixin.qq.com/s?__biz=Mzk0NDM3OTEyOQ==&mid=2247484222&idx=1&sn=ee4036694ad43c7a3949c84ebc94f07e&chksm=c324c6a8f4534fbea75eaa69a5b3e5d38c68f6cc6770665888e7c963b1cc8ecfc3fb82014e47&token=780654323&lang=zh_CN#rd) 变通之法实现ChatGPT返回动态图片。
 *  [这些ChatGPT酷炫玩法，99%使用者不知道](https://mp.weixin.qq.com/s?__biz=Mzk0NDM3OTEyOQ==&mid=2247484389&idx=1&sn=34afea8c052e3d1333aa279cd8bbfabb&chksm=c324c673f4534f65985f219a05ef7b013ee5fcb4e3e951d23c2ae25c62009d42510b217a652c&token=1124812955&lang=zh_CN#rd) ChatGPT输出图像。
 *  [巧用ChatGPT编写万字长文的论文，纯干货实操](https://mp.weixin.qq.com/s?__biz=Mzk0NDM3OTEyOQ==&mid=2247484412&idx=1&sn=63c2b3cac04da1d845337df102bf5431&chksm=c324c66af4534f7cec704e1d2ac2b0aa19d4b1e3635a5a1a196acb995b052162a3ce2916e2f4&token=1124812955&lang=zh_CN#rd) 代写长篇论文。
+*   [ChatGPT账号没封的看过来，与ChatGPT玩个超级创意游戏](https://mp.weixin.qq.com/s?__biz=Mzk0NDM3OTEyOQ==&mid=2247484560&idx=1&sn=cd8b056343b367266fa01122657ab6a5&chksm=c324c106f45348101f2ce77612de92fde958fb4fe98b651285e17fe7c2f78d0c9688b5161e18&token=880530703&lang=zh_CN#rd) 代写长篇论文。
 
 
 ## 风险篇
-* [真实发生了，滥用这种场景，ChatGPT账号被封禁](https://mp.weixin.qq.com/s?__biz=Mzk0NDM3OTEyOQ==&mid=2247484337&idx=1&sn=bfdbc2117b043752cd47268c291704b8&chksm=c324c627f4534f31f91009a8d519ca388c791ca0e8166eb7dc77abd8cb35b6d0d6d9d3511c13&token=1124812955&lang=zh_CN#rd) 小心为好。
-* [ 事关ChatGPT账号封禁的强烈忠告](https://mp.weixin.qq.com/s?__biz=Mzk0NDM3OTEyOQ==&mid=2247484378&idx=1&sn=f14a6cb4cd7b319e93a09947b3ce9f32&chksm=c324c64cf4534f5ae111f57ac935bd01e26fa02501df26331af21580b76d65d23958604c6087&token=1124812955&lang=zh_CN#rd) 再次注意。
+* [针对近日ChatGPT账号大批量封禁的理性分析 ](https://mp.weixin.qq.com/s?__biz=Mzk0NDM3OTEyOQ==&mid=2247484536&idx=1&sn=419fdfe587569b877896fc08f0cd316c&chksm=c324c1eef45348f8da53e29c43e146f5c214559ba9379c0ecbf30113a209f4388c38b042958c&token=880530703&lang=zh_CN#rd) 切莫人云亦云。
+* [ChatGPT账号被封禁，赶紧这样处理](https://mp.weixin.qq.com/s?__biz=Mzk0NDM3OTEyOQ==&mid=2247484544&idx=1&sn=b54b010478fe7f24fa9ba503b5af2f87&chksm=c324c116f45348008d431e40522d3b4f8976cf8816e7c68955513f20e05f53fe538a66661cab&token=880530703&lang=zh_CN#rd) 参考做即可。
+*  [真实发生了，滥用这种场景，ChatGPT账号被封禁](https://mp.weixin.qq.com/s?__biz=Mzk0NDM3OTEyOQ==&mid=2247484337&idx=1&sn=bfdbc2117b043752cd47268c291704b8&chksm=c324c627f4534f31f91009a8d519ca388c791ca0e8166eb7dc77abd8cb35b6d0d6d9d3511c13&token=1124812955&lang=zh_CN#rd) 小心为好。
+* [事关ChatGPT账号封禁的强烈忠告](https://mp.weixin.qq.com/s?__biz=Mzk0NDM3OTEyOQ==&mid=2247484378&idx=1&sn=f14a6cb4cd7b319e93a09947b3ce9f32&chksm=c324c64cf4534f5ae111f57ac935bd01e26fa02501df26331af21580b76d65d23958604c6087&token=1124812955&lang=zh_CN#rd) 再次注意。
+*  [关于ChatGPT账号的特别忠告](https://mp.weixin.qq.com/s?__biz=Mzk0NDM3OTEyOQ==&mid=2247484501&idx=1&sn=bfea5f7007f89347725a926d4f317643&chksm=c324c1c3f45348d5480b520db974d3eaeb398bf1cf69b66f072f23ab50fa014706caa0cbfc66&token=880530703&lang=zh_CN#rd) 不看后悔 。
+*  [关于ChatGPT，已到了不得不说的危难时刻](https://mp.weixin.qq.com/s?__biz=Mzk0NDM3OTEyOQ==&mid=2247484490&idx=1&sn=3e02bc7acaefd9957b3d51f5f04cf1a9&chksm=c324c1dcf45348ca6dfe2f6eb9a5f140ee0f43ff8aa63e69aa6818ec41ec356d5196423b4c1c&token=880530703&lang=zh_CN#rd) 该重视了。
+
+
+
 
